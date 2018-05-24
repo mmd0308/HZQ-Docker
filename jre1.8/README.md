@@ -8,3 +8,6 @@
 - [http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
 
 ## 镜像大小 519MB
+
+# 下载
+> docker pull mmd0308/jre8
