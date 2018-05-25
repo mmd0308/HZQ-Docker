@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo docker build -t mmd0308/jre8:latest .
+sudo docker build -t mmd0308/jre8:centos7 .
